@@ -67,19 +67,16 @@ The resulting bias scores will be stored in the `./results/bias-results.json` fi
 
 The LANS application uses a dataset of news articles for evaluation purposes. The dataset is stored in the `./data/fr_covid_news_8k.csv` file. 
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
-We would like to express our gratitude to the contributors and developers of the various libraries and models used in this project. Their contributions have been invaluable in creating LANS.
+I would like to express my gratitude to the contributors [@Gaurav Aggarwal](https://github.com/gaurav-aggarwall) and [@Shreejay Jahagirdar](https://github.com/shreejay23) for the models and process flows created in this project. Their contributions have been invaluable in creating LANS.
 
 ## Contact
 
-For any inquiries or feedback, please contact the project team at lans@example.com.
-
-**Note**: Replace `lans@example.com` with the appropriate email address.
+For any inquiries or feedback, please contact the project team at
+- jayaram.krovvidi@outlook.com
+- mail.gauravagg@gmail.com
+- shreejay.va@gmail.com
 
 ---
 
